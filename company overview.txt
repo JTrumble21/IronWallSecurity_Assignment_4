@@ -1,5 +1,3 @@
-About IronWall Security
-
 IronWall Security is a cutting-edge cybersecurity firm founded with the mission of safeguarding the digital world against ever-evolving cyber threats. From individual consumers to global enterprises, IronWall delivers next-generation security solutions that are as resilient and unyielding as the name suggests.
 
 The company focuses on providing robust, adaptive defense systems capable of identifying, blocking, and neutralizing cyber threats before they can compromise critical systems. Through a combination of artificial intelligence, machine learning, and advanced encryption protocols, IronWall Security aims to create an impenetrable digital fortress for its clients.
