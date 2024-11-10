@@ -1,0 +1,29 @@
+Core Software Solutions
+
+1. IronWall Defender™ (Enterprise Security Suite)
+
+A comprehensive, AI-powered platform that protects organizations against all layers of cyber threats, including malware, ransomware, phishing, and advanced persistent threats (APTs).
+Features include real-time threat monitoring, automated incident response, network anomaly detection, and deep threat intelligence analytics.
+The system integrates seamlessly with existing IT infrastructure and scales to meet the needs of small businesses, large enterprises, and governmental bodies.
+
+2. IronWall Endpoint™ (Personal Protection)
+
+A lightweight yet powerful software designed to protect individual users across various devices (PCs, smartphones, and tablets).
+With continuous monitoring and proactive scanning, it protects users from cyber attacks, data breaches, and identity theft while keeping their personal information secure.
+Features include device encryption, browser protection, anti-phishing tools, and secure Wi-Fi management.
+
+3. IronWall Sentinel™ (Cloud Security)
+
+A cloud-native security solution designed to safeguard applications, databases, and user data in the cloud, providing visibility, control, and security across multi-cloud environments.
+It offers end-to-end encryption, cloud access security brokers (CASB), and threat detection for cloud workloads, ensuring that critical data remains secure in the cloud, where it is most vulnerable.
+
+4. IronWall Shield™ (Advanced Threat Detection & Response)
+
+Powered by artificial intelligence and machine learning, this platform automatically analyzes network traffic to detect malicious behavior in real-time.
+IronWall Shield can autonomously respond to threats by blocking suspicious IPs, isolating infected devices, or deploying countermeasures against malware.
+The platform is designed to learn and evolve based on attack patterns, improving its detection capabilities over time.
+
+5. IronWall Quantum™ (Next-Gen Encryption Suite)
+
+As quantum computing looms closer, IronWall Quantum is a next-generation encryption solution designed to protect against future threats from quantum-based decryption methods.
+This forward-thinking software ensures that data remains secure today and in the future, protecting intellectual property, classified data, and personal information with quantum-resistant algorithms.
